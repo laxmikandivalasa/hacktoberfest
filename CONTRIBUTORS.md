@@ -1,3 +1,10 @@
+
+#### Name: [Laxmi Kandivalasa](https://github.com/laxmikandivalasa)
+- Place: Vizag,India
+- Bio: A Computer Science Student , love to learn and create  
+- Github: [laxmikandivalasa](https://github.com/laxmikandivalasa)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
